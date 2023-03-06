@@ -1,0 +1,23 @@
+
+<%- include('partials/header'); -%>
+
+<div class="container">
+
+    <!-- <h1>Home</h1> -->
+    <img src="/source/dLogo.jpg" class="center">
+    <p> <%= homeContent %></p>
+    <form action="compose" class="center">
+        <button type="submit" class="btn btn-primary">Create Your Journal</button>
+    </form> 
+
+    <% newPosts.forEach(function(post){ %>
+        <div class="post">
+            <h1> <%= post.title %></h1>
+            <p> <%= post.content.substring(0,100) + "..." %> 
+                <a href="/posts/<%=post.title%>">Read more</a>
+            </p>
+        </div>
+        <% }) %>
+        
+</div>
+<%- include('partials/footer'); -%>
