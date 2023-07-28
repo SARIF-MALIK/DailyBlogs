@@ -1,0 +1,16 @@
+# DailyBlogs
+Simple site to post daily blogs is created using Express, EJS, JS, HTML &amp; CSS only
+![Slide1](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/048daefd-565e-4b10-b582-f6c786bac50f)
+![Slide2](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/a2fdaf2c-28b4-48e2-a7d3-f339a33e2d58)
+![Slide3](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/a23d1e43-37a8-49f5-92a7-dee3637274ac)
+![Slide8](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/9df0aab6-ad8a-4c3b-9e67-b0ae77488fe2)
+![Slide9](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/c129556c-d282-436d-b581-4aed446f8619)
+![Slide10](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/ae2f1e5c-8ba4-432e-a662-7d7c46984010)
+![Slide11](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/6db928d6-ba87-49ad-becb-21c5a9283860)
+![Slide12](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/fba44132-95b3-41ad-941b-fe69ee8eb5de)
+![Slide13](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/4233673d-f3ed-416c-a53b-3c22267d8063)
+![Slide14](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/48110e3b-b433-41bd-9d75-7113756bc577)
+![Slide15 (2)](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/abc772bb-a16e-44e9-a75a-904f7f6fe88c)
+![Slide16](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/09baed03-43d4-45a0-b392-808c3f6c68a1)
+![Slide17](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/7d8abb34-477e-4ec2-bef3-25cc1a52b95b)
+![Slide18](https://github.com/SARIF-MALIK/DailyBlogs/assets/96826281/c82d79b9-5fa4-472a-8a47-238077c42b6c)
